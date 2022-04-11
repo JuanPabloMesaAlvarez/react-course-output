@@ -1,0 +1,16 @@
+.user-list{
+    background: whitesmoke;
+    display: table;
+}
+
+.table-row {
+    display: table-row;
+  width: auto;
+  clear: both;
+}
+
+.table-column{
+    float: left; /* fix for  buggy browsers */
+  display: table-column;         
+  width: 200px;         
+}

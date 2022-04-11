@@ -1,0 +1,19 @@
+.card form input {
+    min-width: 200px;
+    margin: 10px;
+}
+
+.card form button {
+    width: 100%;
+    margin-top: 15px;
+    background-color: purple;
+    color: white;
+    font-weight: bold;
+
+}
+
+.card form .label {
+    font-weight: bold;
+    text-align: left;
+    margin-left: 10px;
+}
